@@ -1,4 +1,3 @@
-
 const publicRoute = () => {
     return (
         <div>
