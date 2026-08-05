@@ -1,9 +1,5 @@
-const privateRoute = () => {
-    return (
-        <div>
+const privateRoute = [
 
-        </div>
-    );
-};
+]
 
 export default privateRoute;
